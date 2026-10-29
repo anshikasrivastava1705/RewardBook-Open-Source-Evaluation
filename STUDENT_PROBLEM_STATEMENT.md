@@ -20,6 +20,14 @@ This is a fictional offline service inspired by common rewards products. It is n
 ## Setup
 Run: `python -m pip install -r requirements-dev.txt`, then `python -m pytest -q`, then `python -m main`.
 
+## Repository reading checklist and dataset
+
+Before editing, read `README.md` and `STUDENT_START_HERE.md`, then inspect the whole repository—not only this PDF. Read `CONTRIBUTING.md`, `.github/PULL_REQUEST_TEMPLATE.md`, the test/template documents, `service.py`, `models.py`, `fixtures.py`, `main.py`, every file under `tests/`, and the workflow files under `.github/workflows/`.
+
+The expanded synthetic dataset is in `data/records.json`: **40 accounts, 180 repeat-pattern transaction records, 264 reward event examples, 180 captured-purchase records, and 8 reward-rule cases**, plus an edge-case catalog. Read `data/README.txt` for its schema. The dataset includes groups of repeated same-account/date/amount purchases, rounding boundaries, caps, malformed values, duplicate events and refund edge cases. The offline demo uses `fixtures.py`; the larger JSON is additional investigation and test material. All records are synthetic.
+
+Run the baseline tests before editing and record their actual result. Never weaken tests just to remove failures.
+
 ## Work to submit
 - Read the source and run the starter tests before editing.
 - Use the requirements and tests as the acceptance contract. Trace failures to their root causes, fix the underlying behaviour, and avoid hard-coding sample output.
