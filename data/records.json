@@ -167,1081 +167,1261 @@
       "transaction_id": "REPEAT-0001",
       "account_id": "ACCT-1001",
       "date": "2026-10-01",
-      "amount_paise": 0
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-001"
     },
     {
       "transaction_id": "REPEAT-0002",
-      "account_id": "ACCT-1002",
+      "account_id": "ACCT-1001",
       "date": "2026-10-01",
-      "amount_paise": 0
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-001"
     },
     {
       "transaction_id": "REPEAT-0003",
-      "account_id": "ACCT-1003",
+      "account_id": "ACCT-1001",
       "date": "2026-10-01",
-      "amount_paise": 0
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-001"
     },
     {
       "transaction_id": "REPEAT-0004",
-      "account_id": "ACCT-1004",
-      "date": "2026-10-01",
-      "amount_paise": 0
+      "account_id": "ACCT-1002",
+      "date": "2026-10-02",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-002"
     },
     {
       "transaction_id": "REPEAT-0005",
-      "account_id": "ACCT-1005",
-      "date": "2026-10-01",
-      "amount_paise": 500000
+      "account_id": "ACCT-1002",
+      "date": "2026-10-02",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-002"
     },
     {
       "transaction_id": "REPEAT-0006",
-      "account_id": "ACCT-1006",
+      "account_id": "ACCT-1002",
       "date": "2026-10-02",
-      "amount_paise": 0
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-002"
     },
     {
       "transaction_id": "REPEAT-0007",
-      "account_id": "ACCT-1007",
-      "date": "2026-10-02",
-      "amount_paise": 100
+      "account_id": "ACCT-1003",
+      "date": "2026-10-03",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-003"
     },
     {
       "transaction_id": "REPEAT-0008",
-      "account_id": "ACCT-1008",
-      "date": "2026-10-02",
-      "amount_paise": 10000
+      "account_id": "ACCT-1003",
+      "date": "2026-10-03",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-003"
     },
     {
       "transaction_id": "REPEAT-0009",
-      "account_id": "ACCT-1009",
-      "date": "2026-10-02",
-      "amount_paise": 99999
+      "account_id": "ACCT-1003",
+      "date": "2026-10-03",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-003"
     },
     {
       "transaction_id": "REPEAT-0010",
-      "account_id": "ACCT-1010",
-      "date": "2026-10-02",
-      "amount_paise": 500000
+      "account_id": "ACCT-1004",
+      "date": "2026-10-04",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-004"
     },
     {
       "transaction_id": "REPEAT-0011",
-      "account_id": "ACCT-1011",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1004",
+      "date": "2026-10-04",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-004"
     },
     {
       "transaction_id": "REPEAT-0012",
-      "account_id": "ACCT-1012",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1004",
+      "date": "2026-10-04",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-004"
     },
     {
       "transaction_id": "REPEAT-0013",
-      "account_id": "ACCT-1013",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1005",
+      "date": "2026-10-05",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-005"
     },
     {
       "transaction_id": "REPEAT-0014",
-      "account_id": "ACCT-1014",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1005",
+      "date": "2026-10-05",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-005"
     },
     {
       "transaction_id": "REPEAT-0015",
-      "account_id": "ACCT-1015",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1005",
+      "date": "2026-10-05",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-005"
     },
     {
       "transaction_id": "REPEAT-0016",
-      "account_id": "ACCT-1016",
-      "date": "2026-10-04",
-      "amount_paise": 0
+      "account_id": "ACCT-1006",
+      "date": "2026-10-06",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-006"
     },
     {
       "transaction_id": "REPEAT-0017",
-      "account_id": "ACCT-1017",
-      "date": "2026-10-04",
-      "amount_paise": 100
+      "account_id": "ACCT-1006",
+      "date": "2026-10-06",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-006"
     },
     {
       "transaction_id": "REPEAT-0018",
-      "account_id": "ACCT-1018",
-      "date": "2026-10-04",
-      "amount_paise": 10000
+      "account_id": "ACCT-1006",
+      "date": "2026-10-06",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-006"
     },
     {
       "transaction_id": "REPEAT-0019",
-      "account_id": "ACCT-1019",
-      "date": "2026-10-04",
-      "amount_paise": 99999
+      "account_id": "ACCT-1007",
+      "date": "2026-10-07",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-007"
     },
     {
       "transaction_id": "REPEAT-0020",
-      "account_id": "ACCT-1020",
-      "date": "2026-10-04",
-      "amount_paise": 500000
+      "account_id": "ACCT-1007",
+      "date": "2026-10-07",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-007"
     },
     {
       "transaction_id": "REPEAT-0021",
-      "account_id": "ACCT-1021",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1007",
+      "date": "2026-10-07",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-007"
     },
     {
       "transaction_id": "REPEAT-0022",
-      "account_id": "ACCT-1022",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1008",
+      "date": "2026-10-08",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-008"
     },
     {
       "transaction_id": "REPEAT-0023",
-      "account_id": "ACCT-1023",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1008",
+      "date": "2026-10-08",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-008"
     },
     {
       "transaction_id": "REPEAT-0024",
-      "account_id": "ACCT-1024",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1008",
+      "date": "2026-10-08",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-008"
     },
     {
       "transaction_id": "REPEAT-0025",
-      "account_id": "ACCT-1025",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1009",
+      "date": "2026-10-09",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-009"
     },
     {
       "transaction_id": "REPEAT-0026",
-      "account_id": "ACCT-1026",
-      "date": "2026-10-06",
-      "amount_paise": 0
+      "account_id": "ACCT-1009",
+      "date": "2026-10-09",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-009"
     },
     {
       "transaction_id": "REPEAT-0027",
-      "account_id": "ACCT-1027",
-      "date": "2026-10-06",
-      "amount_paise": 100
+      "account_id": "ACCT-1009",
+      "date": "2026-10-09",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-009"
     },
     {
       "transaction_id": "REPEAT-0028",
-      "account_id": "ACCT-1028",
-      "date": "2026-10-06",
-      "amount_paise": 10000
+      "account_id": "ACCT-1010",
+      "date": "2026-10-10",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-010"
     },
     {
       "transaction_id": "REPEAT-0029",
-      "account_id": "ACCT-1029",
-      "date": "2026-10-06",
-      "amount_paise": 99999
+      "account_id": "ACCT-1010",
+      "date": "2026-10-10",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-010"
     },
     {
       "transaction_id": "REPEAT-0030",
-      "account_id": "ACCT-1030",
-      "date": "2026-10-06",
-      "amount_paise": 500000
+      "account_id": "ACCT-1010",
+      "date": "2026-10-10",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-010"
     },
     {
       "transaction_id": "REPEAT-0031",
-      "account_id": "ACCT-1031",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1011",
+      "date": "2026-10-11",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-011"
     },
     {
       "transaction_id": "REPEAT-0032",
-      "account_id": "ACCT-1032",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1011",
+      "date": "2026-10-11",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-011"
     },
     {
       "transaction_id": "REPEAT-0033",
-      "account_id": "ACCT-1033",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1011",
+      "date": "2026-10-11",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-011"
     },
     {
       "transaction_id": "REPEAT-0034",
-      "account_id": "ACCT-1034",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1012",
+      "date": "2026-10-12",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-012"
     },
     {
       "transaction_id": "REPEAT-0035",
-      "account_id": "ACCT-1035",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1012",
+      "date": "2026-10-12",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-012"
     },
     {
       "transaction_id": "REPEAT-0036",
-      "account_id": "ACCT-1036",
-      "date": "2026-10-08",
-      "amount_paise": 0
+      "account_id": "ACCT-1012",
+      "date": "2026-10-12",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-012"
     },
     {
       "transaction_id": "REPEAT-0037",
-      "account_id": "ACCT-1037",
-      "date": "2026-10-08",
-      "amount_paise": 100
+      "account_id": "ACCT-1013",
+      "date": "2026-10-13",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-013"
     },
     {
       "transaction_id": "REPEAT-0038",
-      "account_id": "ACCT-1038",
-      "date": "2026-10-08",
-      "amount_paise": 10000
+      "account_id": "ACCT-1013",
+      "date": "2026-10-13",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-013"
     },
     {
       "transaction_id": "REPEAT-0039",
-      "account_id": "ACCT-1039",
-      "date": "2026-10-08",
-      "amount_paise": 99999
+      "account_id": "ACCT-1013",
+      "date": "2026-10-13",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-013"
     },
     {
       "transaction_id": "REPEAT-0040",
-      "account_id": "ACCT-1040",
-      "date": "2026-10-08",
-      "amount_paise": 500000
+      "account_id": "ACCT-1014",
+      "date": "2026-10-14",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-014"
     },
     {
       "transaction_id": "REPEAT-0041",
-      "account_id": "ACCT-1001",
-      "date": "2026-10-09",
-      "amount_paise": 500000
+      "account_id": "ACCT-1014",
+      "date": "2026-10-14",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-014"
     },
     {
       "transaction_id": "REPEAT-0042",
-      "account_id": "ACCT-1002",
-      "date": "2026-10-09",
-      "amount_paise": 500000
+      "account_id": "ACCT-1014",
+      "date": "2026-10-14",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-014"
     },
     {
       "transaction_id": "REPEAT-0043",
-      "account_id": "ACCT-1003",
-      "date": "2026-10-09",
-      "amount_paise": 500000
+      "account_id": "ACCT-1015",
+      "date": "2026-10-15",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-015"
     },
     {
       "transaction_id": "REPEAT-0044",
-      "account_id": "ACCT-1004",
-      "date": "2026-10-09",
-      "amount_paise": 500000
+      "account_id": "ACCT-1015",
+      "date": "2026-10-15",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-015"
     },
     {
       "transaction_id": "REPEAT-0045",
-      "account_id": "ACCT-1005",
-      "date": "2026-10-09",
-      "amount_paise": 500000
+      "account_id": "ACCT-1015",
+      "date": "2026-10-15",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-015"
     },
     {
       "transaction_id": "REPEAT-0046",
-      "account_id": "ACCT-1006",
-      "date": "2026-10-10",
-      "amount_paise": 0
+      "account_id": "ACCT-1016",
+      "date": "2026-10-16",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-016"
     },
     {
       "transaction_id": "REPEAT-0047",
-      "account_id": "ACCT-1007",
-      "date": "2026-10-10",
-      "amount_paise": 100
+      "account_id": "ACCT-1016",
+      "date": "2026-10-16",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-016"
     },
     {
       "transaction_id": "REPEAT-0048",
-      "account_id": "ACCT-1008",
-      "date": "2026-10-10",
-      "amount_paise": 10000
+      "account_id": "ACCT-1016",
+      "date": "2026-10-16",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-016"
     },
     {
       "transaction_id": "REPEAT-0049",
-      "account_id": "ACCT-1009",
-      "date": "2026-10-10",
-      "amount_paise": 99999
+      "account_id": "ACCT-1017",
+      "date": "2026-10-17",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-017"
     },
     {
       "transaction_id": "REPEAT-0050",
-      "account_id": "ACCT-1010",
-      "date": "2026-10-10",
-      "amount_paise": 500000
+      "account_id": "ACCT-1017",
+      "date": "2026-10-17",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-017"
     },
     {
       "transaction_id": "REPEAT-0051",
-      "account_id": "ACCT-1011",
-      "date": "2026-10-11",
-      "amount_paise": 500000
+      "account_id": "ACCT-1017",
+      "date": "2026-10-17",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-017"
     },
     {
       "transaction_id": "REPEAT-0052",
-      "account_id": "ACCT-1012",
-      "date": "2026-10-11",
-      "amount_paise": 500000
+      "account_id": "ACCT-1018",
+      "date": "2026-10-18",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-018"
     },
     {
       "transaction_id": "REPEAT-0053",
-      "account_id": "ACCT-1013",
-      "date": "2026-10-11",
-      "amount_paise": 500000
+      "account_id": "ACCT-1018",
+      "date": "2026-10-18",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-018"
     },
     {
       "transaction_id": "REPEAT-0054",
-      "account_id": "ACCT-1014",
-      "date": "2026-10-11",
-      "amount_paise": 500000
+      "account_id": "ACCT-1018",
+      "date": "2026-10-18",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-018"
     },
     {
       "transaction_id": "REPEAT-0055",
-      "account_id": "ACCT-1015",
-      "date": "2026-10-11",
-      "amount_paise": 500000
+      "account_id": "ACCT-1019",
+      "date": "2026-10-19",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-019"
     },
     {
       "transaction_id": "REPEAT-0056",
-      "account_id": "ACCT-1016",
-      "date": "2026-10-12",
-      "amount_paise": 0
+      "account_id": "ACCT-1019",
+      "date": "2026-10-19",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-019"
     },
     {
       "transaction_id": "REPEAT-0057",
-      "account_id": "ACCT-1017",
-      "date": "2026-10-12",
-      "amount_paise": 100
+      "account_id": "ACCT-1019",
+      "date": "2026-10-19",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-019"
     },
     {
       "transaction_id": "REPEAT-0058",
-      "account_id": "ACCT-1018",
-      "date": "2026-10-12",
-      "amount_paise": 10000
+      "account_id": "ACCT-1020",
+      "date": "2026-10-20",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-020"
     },
     {
       "transaction_id": "REPEAT-0059",
-      "account_id": "ACCT-1019",
-      "date": "2026-10-12",
-      "amount_paise": 99999
+      "account_id": "ACCT-1020",
+      "date": "2026-10-20",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-020"
     },
     {
       "transaction_id": "REPEAT-0060",
       "account_id": "ACCT-1020",
-      "date": "2026-10-12",
-      "amount_paise": 500000
+      "date": "2026-10-20",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-020"
     },
     {
       "transaction_id": "REPEAT-0061",
       "account_id": "ACCT-1021",
-      "date": "2026-10-13",
-      "amount_paise": 500000
+      "date": "2026-10-21",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-021"
     },
     {
       "transaction_id": "REPEAT-0062",
-      "account_id": "ACCT-1022",
-      "date": "2026-10-13",
-      "amount_paise": 500000
+      "account_id": "ACCT-1021",
+      "date": "2026-10-21",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-021"
     },
     {
       "transaction_id": "REPEAT-0063",
-      "account_id": "ACCT-1023",
-      "date": "2026-10-13",
-      "amount_paise": 500000
+      "account_id": "ACCT-1021",
+      "date": "2026-10-21",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-021"
     },
     {
       "transaction_id": "REPEAT-0064",
-      "account_id": "ACCT-1024",
-      "date": "2026-10-13",
-      "amount_paise": 500000
+      "account_id": "ACCT-1022",
+      "date": "2026-10-22",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-022"
     },
     {
       "transaction_id": "REPEAT-0065",
-      "account_id": "ACCT-1025",
-      "date": "2026-10-13",
-      "amount_paise": 500000
+      "account_id": "ACCT-1022",
+      "date": "2026-10-22",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-022"
     },
     {
       "transaction_id": "REPEAT-0066",
-      "account_id": "ACCT-1026",
-      "date": "2026-10-14",
-      "amount_paise": 0
+      "account_id": "ACCT-1022",
+      "date": "2026-10-22",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-022"
     },
     {
       "transaction_id": "REPEAT-0067",
-      "account_id": "ACCT-1027",
-      "date": "2026-10-14",
-      "amount_paise": 100
+      "account_id": "ACCT-1023",
+      "date": "2026-10-23",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-023"
     },
     {
       "transaction_id": "REPEAT-0068",
-      "account_id": "ACCT-1028",
-      "date": "2026-10-14",
-      "amount_paise": 10000
+      "account_id": "ACCT-1023",
+      "date": "2026-10-23",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-023"
     },
     {
       "transaction_id": "REPEAT-0069",
-      "account_id": "ACCT-1029",
-      "date": "2026-10-14",
-      "amount_paise": 99999
+      "account_id": "ACCT-1023",
+      "date": "2026-10-23",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-023"
     },
     {
       "transaction_id": "REPEAT-0070",
-      "account_id": "ACCT-1030",
-      "date": "2026-10-14",
-      "amount_paise": 500000
+      "account_id": "ACCT-1024",
+      "date": "2026-10-24",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-024"
     },
     {
       "transaction_id": "REPEAT-0071",
-      "account_id": "ACCT-1031",
-      "date": "2026-10-15",
-      "amount_paise": 500000
+      "account_id": "ACCT-1024",
+      "date": "2026-10-24",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-024"
     },
     {
       "transaction_id": "REPEAT-0072",
-      "account_id": "ACCT-1032",
-      "date": "2026-10-15",
-      "amount_paise": 500000
+      "account_id": "ACCT-1024",
+      "date": "2026-10-24",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-024"
     },
     {
       "transaction_id": "REPEAT-0073",
-      "account_id": "ACCT-1033",
-      "date": "2026-10-15",
-      "amount_paise": 500000
+      "account_id": "ACCT-1025",
+      "date": "2026-10-25",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-025"
     },
     {
       "transaction_id": "REPEAT-0074",
-      "account_id": "ACCT-1034",
-      "date": "2026-10-15",
-      "amount_paise": 500000
+      "account_id": "ACCT-1025",
+      "date": "2026-10-25",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-025"
     },
     {
       "transaction_id": "REPEAT-0075",
-      "account_id": "ACCT-1035",
-      "date": "2026-10-15",
-      "amount_paise": 500000
+      "account_id": "ACCT-1025",
+      "date": "2026-10-25",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-025"
     },
     {
       "transaction_id": "REPEAT-0076",
-      "account_id": "ACCT-1036",
-      "date": "2026-10-16",
-      "amount_paise": 0
+      "account_id": "ACCT-1026",
+      "date": "2026-10-26",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-026"
     },
     {
       "transaction_id": "REPEAT-0077",
-      "account_id": "ACCT-1037",
-      "date": "2026-10-16",
-      "amount_paise": 100
+      "account_id": "ACCT-1026",
+      "date": "2026-10-26",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-026"
     },
     {
       "transaction_id": "REPEAT-0078",
-      "account_id": "ACCT-1038",
-      "date": "2026-10-16",
-      "amount_paise": 10000
+      "account_id": "ACCT-1026",
+      "date": "2026-10-26",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-026"
     },
     {
       "transaction_id": "REPEAT-0079",
-      "account_id": "ACCT-1039",
-      "date": "2026-10-16",
-      "amount_paise": 99999
+      "account_id": "ACCT-1027",
+      "date": "2026-10-27",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-027"
     },
     {
       "transaction_id": "REPEAT-0080",
-      "account_id": "ACCT-1040",
-      "date": "2026-10-16",
-      "amount_paise": 500000
+      "account_id": "ACCT-1027",
+      "date": "2026-10-27",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-027"
     },
     {
       "transaction_id": "REPEAT-0081",
-      "account_id": "ACCT-1001",
-      "date": "2026-10-17",
-      "amount_paise": 500000
+      "account_id": "ACCT-1027",
+      "date": "2026-10-27",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-027"
     },
     {
       "transaction_id": "REPEAT-0082",
-      "account_id": "ACCT-1002",
-      "date": "2026-10-17",
-      "amount_paise": 500000
+      "account_id": "ACCT-1028",
+      "date": "2026-10-28",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-028"
     },
     {
       "transaction_id": "REPEAT-0083",
-      "account_id": "ACCT-1003",
-      "date": "2026-10-17",
-      "amount_paise": 500000
+      "account_id": "ACCT-1028",
+      "date": "2026-10-28",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-028"
     },
     {
       "transaction_id": "REPEAT-0084",
-      "account_id": "ACCT-1004",
-      "date": "2026-10-17",
-      "amount_paise": 500000
+      "account_id": "ACCT-1028",
+      "date": "2026-10-28",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-028"
     },
     {
       "transaction_id": "REPEAT-0085",
-      "account_id": "ACCT-1005",
-      "date": "2026-10-17",
-      "amount_paise": 500000
+      "account_id": "ACCT-1029",
+      "date": "2026-10-01",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-029"
     },
     {
       "transaction_id": "REPEAT-0086",
-      "account_id": "ACCT-1006",
-      "date": "2026-10-18",
-      "amount_paise": 0
+      "account_id": "ACCT-1029",
+      "date": "2026-10-01",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-029"
     },
     {
       "transaction_id": "REPEAT-0087",
-      "account_id": "ACCT-1007",
-      "date": "2026-10-18",
-      "amount_paise": 100
+      "account_id": "ACCT-1029",
+      "date": "2026-10-01",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-029"
     },
     {
       "transaction_id": "REPEAT-0088",
-      "account_id": "ACCT-1008",
-      "date": "2026-10-18",
-      "amount_paise": 10000
+      "account_id": "ACCT-1030",
+      "date": "2026-10-02",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-030"
     },
     {
       "transaction_id": "REPEAT-0089",
-      "account_id": "ACCT-1009",
-      "date": "2026-10-18",
-      "amount_paise": 99999
+      "account_id": "ACCT-1030",
+      "date": "2026-10-02",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-030"
     },
     {
       "transaction_id": "REPEAT-0090",
-      "account_id": "ACCT-1010",
-      "date": "2026-10-18",
-      "amount_paise": 500000
+      "account_id": "ACCT-1030",
+      "date": "2026-10-02",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-030"
     },
     {
       "transaction_id": "REPEAT-0091",
-      "account_id": "ACCT-1011",
-      "date": "2026-10-19",
-      "amount_paise": 500000
+      "account_id": "ACCT-1031",
+      "date": "2026-10-03",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-031"
     },
     {
       "transaction_id": "REPEAT-0092",
-      "account_id": "ACCT-1012",
-      "date": "2026-10-19",
-      "amount_paise": 500000
+      "account_id": "ACCT-1031",
+      "date": "2026-10-03",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-031"
     },
     {
       "transaction_id": "REPEAT-0093",
-      "account_id": "ACCT-1013",
-      "date": "2026-10-19",
-      "amount_paise": 500000
+      "account_id": "ACCT-1031",
+      "date": "2026-10-03",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-031"
     },
     {
       "transaction_id": "REPEAT-0094",
-      "account_id": "ACCT-1014",
-      "date": "2026-10-19",
-      "amount_paise": 500000
+      "account_id": "ACCT-1032",
+      "date": "2026-10-04",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-032"
     },
     {
       "transaction_id": "REPEAT-0095",
-      "account_id": "ACCT-1015",
-      "date": "2026-10-19",
-      "amount_paise": 500000
+      "account_id": "ACCT-1032",
+      "date": "2026-10-04",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-032"
     },
     {
       "transaction_id": "REPEAT-0096",
-      "account_id": "ACCT-1016",
-      "date": "2026-10-20",
-      "amount_paise": 0
+      "account_id": "ACCT-1032",
+      "date": "2026-10-04",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-032"
     },
     {
       "transaction_id": "REPEAT-0097",
-      "account_id": "ACCT-1017",
-      "date": "2026-10-20",
-      "amount_paise": 100
+      "account_id": "ACCT-1033",
+      "date": "2026-10-05",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-033"
     },
     {
       "transaction_id": "REPEAT-0098",
-      "account_id": "ACCT-1018",
-      "date": "2026-10-20",
-      "amount_paise": 10000
+      "account_id": "ACCT-1033",
+      "date": "2026-10-05",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-033"
     },
     {
       "transaction_id": "REPEAT-0099",
-      "account_id": "ACCT-1019",
-      "date": "2026-10-20",
-      "amount_paise": 99999
+      "account_id": "ACCT-1033",
+      "date": "2026-10-05",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-033"
     },
     {
       "transaction_id": "REPEAT-0100",
-      "account_id": "ACCT-1020",
-      "date": "2026-10-20",
-      "amount_paise": 500000
+      "account_id": "ACCT-1034",
+      "date": "2026-10-06",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-034"
     },
     {
       "transaction_id": "REPEAT-0101",
-      "account_id": "ACCT-1021",
-      "date": "2026-10-21",
-      "amount_paise": 500000
+      "account_id": "ACCT-1034",
+      "date": "2026-10-06",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-034"
     },
     {
       "transaction_id": "REPEAT-0102",
-      "account_id": "ACCT-1022",
-      "date": "2026-10-21",
-      "amount_paise": 500000
+      "account_id": "ACCT-1034",
+      "date": "2026-10-06",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-034"
     },
     {
       "transaction_id": "REPEAT-0103",
-      "account_id": "ACCT-1023",
-      "date": "2026-10-21",
-      "amount_paise": 500000
+      "account_id": "ACCT-1035",
+      "date": "2026-10-07",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-035"
     },
     {
       "transaction_id": "REPEAT-0104",
-      "account_id": "ACCT-1024",
-      "date": "2026-10-21",
-      "amount_paise": 500000
+      "account_id": "ACCT-1035",
+      "date": "2026-10-07",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-035"
     },
     {
       "transaction_id": "REPEAT-0105",
-      "account_id": "ACCT-1025",
-      "date": "2026-10-21",
-      "amount_paise": 500000
+      "account_id": "ACCT-1035",
+      "date": "2026-10-07",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-035"
     },
     {
       "transaction_id": "REPEAT-0106",
-      "account_id": "ACCT-1026",
-      "date": "2026-10-22",
-      "amount_paise": 0
+      "account_id": "ACCT-1036",
+      "date": "2026-10-08",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-036"
     },
     {
       "transaction_id": "REPEAT-0107",
-      "account_id": "ACCT-1027",
-      "date": "2026-10-22",
-      "amount_paise": 100
+      "account_id": "ACCT-1036",
+      "date": "2026-10-08",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-036"
     },
     {
       "transaction_id": "REPEAT-0108",
-      "account_id": "ACCT-1028",
-      "date": "2026-10-22",
-      "amount_paise": 10000
+      "account_id": "ACCT-1036",
+      "date": "2026-10-08",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-036"
     },
     {
       "transaction_id": "REPEAT-0109",
-      "account_id": "ACCT-1029",
-      "date": "2026-10-22",
-      "amount_paise": 99999
+      "account_id": "ACCT-1037",
+      "date": "2026-10-09",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-037"
     },
     {
       "transaction_id": "REPEAT-0110",
-      "account_id": "ACCT-1030",
-      "date": "2026-10-22",
-      "amount_paise": 500000
+      "account_id": "ACCT-1037",
+      "date": "2026-10-09",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-037"
     },
     {
       "transaction_id": "REPEAT-0111",
-      "account_id": "ACCT-1031",
-      "date": "2026-10-23",
-      "amount_paise": 500000
+      "account_id": "ACCT-1037",
+      "date": "2026-10-09",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-037"
     },
     {
       "transaction_id": "REPEAT-0112",
-      "account_id": "ACCT-1032",
-      "date": "2026-10-23",
-      "amount_paise": 500000
+      "account_id": "ACCT-1038",
+      "date": "2026-10-10",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-038"
     },
     {
       "transaction_id": "REPEAT-0113",
-      "account_id": "ACCT-1033",
-      "date": "2026-10-23",
-      "amount_paise": 500000
+      "account_id": "ACCT-1038",
+      "date": "2026-10-10",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-038"
     },
     {
       "transaction_id": "REPEAT-0114",
-      "account_id": "ACCT-1034",
-      "date": "2026-10-23",
-      "amount_paise": 500000
+      "account_id": "ACCT-1038",
+      "date": "2026-10-10",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-038"
     },
     {
       "transaction_id": "REPEAT-0115",
-      "account_id": "ACCT-1035",
-      "date": "2026-10-23",
-      "amount_paise": 500000
+      "account_id": "ACCT-1039",
+      "date": "2026-10-11",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-039"
     },
     {
       "transaction_id": "REPEAT-0116",
-      "account_id": "ACCT-1036",
-      "date": "2026-10-24",
-      "amount_paise": 0
+      "account_id": "ACCT-1039",
+      "date": "2026-10-11",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-039"
     },
     {
       "transaction_id": "REPEAT-0117",
-      "account_id": "ACCT-1037",
-      "date": "2026-10-24",
-      "amount_paise": 100
+      "account_id": "ACCT-1039",
+      "date": "2026-10-11",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-039"
     },
     {
       "transaction_id": "REPEAT-0118",
-      "account_id": "ACCT-1038",
-      "date": "2026-10-24",
-      "amount_paise": 10000
+      "account_id": "ACCT-1040",
+      "date": "2026-10-12",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-040"
     },
     {
       "transaction_id": "REPEAT-0119",
-      "account_id": "ACCT-1039",
-      "date": "2026-10-24",
-      "amount_paise": 99999
+      "account_id": "ACCT-1040",
+      "date": "2026-10-12",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-040"
     },
     {
       "transaction_id": "REPEAT-0120",
       "account_id": "ACCT-1040",
-      "date": "2026-10-24",
-      "amount_paise": 500000
+      "date": "2026-10-12",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-040"
     },
     {
       "transaction_id": "REPEAT-0121",
       "account_id": "ACCT-1001",
-      "date": "2026-10-25",
-      "amount_paise": 500000
+      "date": "2026-10-13",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-041"
     },
     {
       "transaction_id": "REPEAT-0122",
-      "account_id": "ACCT-1002",
-      "date": "2026-10-25",
-      "amount_paise": 500000
+      "account_id": "ACCT-1001",
+      "date": "2026-10-13",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-041"
     },
     {
       "transaction_id": "REPEAT-0123",
-      "account_id": "ACCT-1003",
-      "date": "2026-10-25",
-      "amount_paise": 500000
+      "account_id": "ACCT-1001",
+      "date": "2026-10-13",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-041"
     },
     {
       "transaction_id": "REPEAT-0124",
-      "account_id": "ACCT-1004",
-      "date": "2026-10-25",
-      "amount_paise": 500000
+      "account_id": "ACCT-1002",
+      "date": "2026-10-14",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-042"
     },
     {
       "transaction_id": "REPEAT-0125",
-      "account_id": "ACCT-1005",
-      "date": "2026-10-25",
-      "amount_paise": 500000
+      "account_id": "ACCT-1002",
+      "date": "2026-10-14",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-042"
     },
     {
       "transaction_id": "REPEAT-0126",
-      "account_id": "ACCT-1006",
-      "date": "2026-10-26",
-      "amount_paise": 0
+      "account_id": "ACCT-1002",
+      "date": "2026-10-14",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-042"
     },
     {
       "transaction_id": "REPEAT-0127",
-      "account_id": "ACCT-1007",
-      "date": "2026-10-26",
-      "amount_paise": 100
+      "account_id": "ACCT-1003",
+      "date": "2026-10-15",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-043"
     },
     {
       "transaction_id": "REPEAT-0128",
-      "account_id": "ACCT-1008",
-      "date": "2026-10-26",
-      "amount_paise": 10000
+      "account_id": "ACCT-1003",
+      "date": "2026-10-15",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-043"
     },
     {
       "transaction_id": "REPEAT-0129",
-      "account_id": "ACCT-1009",
-      "date": "2026-10-26",
-      "amount_paise": 99999
+      "account_id": "ACCT-1003",
+      "date": "2026-10-15",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-043"
     },
     {
       "transaction_id": "REPEAT-0130",
-      "account_id": "ACCT-1010",
-      "date": "2026-10-26",
-      "amount_paise": 500000
+      "account_id": "ACCT-1004",
+      "date": "2026-10-16",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-044"
     },
     {
       "transaction_id": "REPEAT-0131",
-      "account_id": "ACCT-1011",
-      "date": "2026-10-27",
-      "amount_paise": 500000
+      "account_id": "ACCT-1004",
+      "date": "2026-10-16",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-044"
     },
     {
       "transaction_id": "REPEAT-0132",
-      "account_id": "ACCT-1012",
-      "date": "2026-10-27",
-      "amount_paise": 500000
+      "account_id": "ACCT-1004",
+      "date": "2026-10-16",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-044"
     },
     {
       "transaction_id": "REPEAT-0133",
-      "account_id": "ACCT-1013",
-      "date": "2026-10-27",
-      "amount_paise": 500000
+      "account_id": "ACCT-1005",
+      "date": "2026-10-17",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-045"
     },
     {
       "transaction_id": "REPEAT-0134",
-      "account_id": "ACCT-1014",
-      "date": "2026-10-27",
-      "amount_paise": 500000
+      "account_id": "ACCT-1005",
+      "date": "2026-10-17",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-045"
     },
     {
       "transaction_id": "REPEAT-0135",
-      "account_id": "ACCT-1015",
-      "date": "2026-10-27",
-      "amount_paise": 500000
+      "account_id": "ACCT-1005",
+      "date": "2026-10-17",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-045"
     },
     {
       "transaction_id": "REPEAT-0136",
-      "account_id": "ACCT-1016",
-      "date": "2026-10-28",
-      "amount_paise": 0
+      "account_id": "ACCT-1006",
+      "date": "2026-10-18",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-046"
     },
     {
       "transaction_id": "REPEAT-0137",
-      "account_id": "ACCT-1017",
-      "date": "2026-10-28",
-      "amount_paise": 100
+      "account_id": "ACCT-1006",
+      "date": "2026-10-18",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-046"
     },
     {
       "transaction_id": "REPEAT-0138",
-      "account_id": "ACCT-1018",
-      "date": "2026-10-28",
-      "amount_paise": 10000
+      "account_id": "ACCT-1006",
+      "date": "2026-10-18",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-046"
     },
     {
       "transaction_id": "REPEAT-0139",
-      "account_id": "ACCT-1019",
-      "date": "2026-10-28",
-      "amount_paise": 99999
+      "account_id": "ACCT-1007",
+      "date": "2026-10-19",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-047"
     },
     {
       "transaction_id": "REPEAT-0140",
-      "account_id": "ACCT-1020",
-      "date": "2026-10-28",
-      "amount_paise": 500000
+      "account_id": "ACCT-1007",
+      "date": "2026-10-19",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-047"
     },
     {
       "transaction_id": "REPEAT-0141",
-      "account_id": "ACCT-1021",
-      "date": "2026-10-01",
-      "amount_paise": 500000
+      "account_id": "ACCT-1007",
+      "date": "2026-10-19",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-047"
     },
     {
       "transaction_id": "REPEAT-0142",
-      "account_id": "ACCT-1022",
-      "date": "2026-10-01",
-      "amount_paise": 500000
+      "account_id": "ACCT-1008",
+      "date": "2026-10-20",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-048"
     },
     {
       "transaction_id": "REPEAT-0143",
-      "account_id": "ACCT-1023",
-      "date": "2026-10-01",
-      "amount_paise": 500000
+      "account_id": "ACCT-1008",
+      "date": "2026-10-20",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-048"
     },
     {
       "transaction_id": "REPEAT-0144",
-      "account_id": "ACCT-1024",
-      "date": "2026-10-01",
-      "amount_paise": 500000
+      "account_id": "ACCT-1008",
+      "date": "2026-10-20",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-048"
     },
     {
       "transaction_id": "REPEAT-0145",
-      "account_id": "ACCT-1025",
-      "date": "2026-10-01",
-      "amount_paise": 500000
+      "account_id": "ACCT-1009",
+      "date": "2026-10-21",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-049"
     },
     {
       "transaction_id": "REPEAT-0146",
-      "account_id": "ACCT-1026",
-      "date": "2026-10-02",
-      "amount_paise": 0
+      "account_id": "ACCT-1009",
+      "date": "2026-10-21",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-049"
     },
     {
       "transaction_id": "REPEAT-0147",
-      "account_id": "ACCT-1027",
-      "date": "2026-10-02",
-      "amount_paise": 100
+      "account_id": "ACCT-1009",
+      "date": "2026-10-21",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-049"
     },
     {
       "transaction_id": "REPEAT-0148",
-      "account_id": "ACCT-1028",
-      "date": "2026-10-02",
-      "amount_paise": 10000
+      "account_id": "ACCT-1010",
+      "date": "2026-10-22",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-050"
     },
     {
       "transaction_id": "REPEAT-0149",
-      "account_id": "ACCT-1029",
-      "date": "2026-10-02",
-      "amount_paise": 99999
+      "account_id": "ACCT-1010",
+      "date": "2026-10-22",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-050"
     },
     {
       "transaction_id": "REPEAT-0150",
-      "account_id": "ACCT-1030",
-      "date": "2026-10-02",
-      "amount_paise": 500000
+      "account_id": "ACCT-1010",
+      "date": "2026-10-22",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-050"
     },
     {
       "transaction_id": "REPEAT-0151",
-      "account_id": "ACCT-1031",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1011",
+      "date": "2026-10-23",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-051"
     },
     {
       "transaction_id": "REPEAT-0152",
-      "account_id": "ACCT-1032",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1011",
+      "date": "2026-10-23",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-051"
     },
     {
       "transaction_id": "REPEAT-0153",
-      "account_id": "ACCT-1033",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1011",
+      "date": "2026-10-23",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-051"
     },
     {
       "transaction_id": "REPEAT-0154",
-      "account_id": "ACCT-1034",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1012",
+      "date": "2026-10-24",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-052"
     },
     {
       "transaction_id": "REPEAT-0155",
-      "account_id": "ACCT-1035",
-      "date": "2026-10-03",
-      "amount_paise": 500000
+      "account_id": "ACCT-1012",
+      "date": "2026-10-24",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-052"
     },
     {
       "transaction_id": "REPEAT-0156",
-      "account_id": "ACCT-1036",
-      "date": "2026-10-04",
-      "amount_paise": 0
+      "account_id": "ACCT-1012",
+      "date": "2026-10-24",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-052"
     },
     {
       "transaction_id": "REPEAT-0157",
-      "account_id": "ACCT-1037",
-      "date": "2026-10-04",
-      "amount_paise": 100
+      "account_id": "ACCT-1013",
+      "date": "2026-10-25",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-053"
     },
     {
       "transaction_id": "REPEAT-0158",
-      "account_id": "ACCT-1038",
-      "date": "2026-10-04",
-      "amount_paise": 10000
+      "account_id": "ACCT-1013",
+      "date": "2026-10-25",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-053"
     },
     {
       "transaction_id": "REPEAT-0159",
-      "account_id": "ACCT-1039",
-      "date": "2026-10-04",
-      "amount_paise": 99999
+      "account_id": "ACCT-1013",
+      "date": "2026-10-25",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-053"
     },
     {
       "transaction_id": "REPEAT-0160",
-      "account_id": "ACCT-1040",
-      "date": "2026-10-04",
-      "amount_paise": 500000
+      "account_id": "ACCT-1014",
+      "date": "2026-10-26",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-054"
     },
     {
       "transaction_id": "REPEAT-0161",
-      "account_id": "ACCT-1001",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1014",
+      "date": "2026-10-26",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-054"
     },
     {
       "transaction_id": "REPEAT-0162",
-      "account_id": "ACCT-1002",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1014",
+      "date": "2026-10-26",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-054"
     },
     {
       "transaction_id": "REPEAT-0163",
-      "account_id": "ACCT-1003",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1015",
+      "date": "2026-10-27",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-055"
     },
     {
       "transaction_id": "REPEAT-0164",
-      "account_id": "ACCT-1004",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1015",
+      "date": "2026-10-27",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-055"
     },
     {
       "transaction_id": "REPEAT-0165",
-      "account_id": "ACCT-1005",
-      "date": "2026-10-05",
-      "amount_paise": 500000
+      "account_id": "ACCT-1015",
+      "date": "2026-10-27",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-055"
     },
     {
       "transaction_id": "REPEAT-0166",
-      "account_id": "ACCT-1006",
-      "date": "2026-10-06",
-      "amount_paise": 0
+      "account_id": "ACCT-1016",
+      "date": "2026-10-28",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-056"
     },
     {
       "transaction_id": "REPEAT-0167",
-      "account_id": "ACCT-1007",
-      "date": "2026-10-06",
-      "amount_paise": 100
+      "account_id": "ACCT-1016",
+      "date": "2026-10-28",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-056"
     },
     {
       "transaction_id": "REPEAT-0168",
-      "account_id": "ACCT-1008",
-      "date": "2026-10-06",
-      "amount_paise": 10000
+      "account_id": "ACCT-1016",
+      "date": "2026-10-28",
+      "amount_paise": 0,
+      "source_group": "REPEAT-GROUP-056"
     },
     {
       "transaction_id": "REPEAT-0169",
-      "account_id": "ACCT-1009",
-      "date": "2026-10-06",
-      "amount_paise": 99999
+      "account_id": "ACCT-1017",
+      "date": "2026-10-01",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-057"
     },
     {
       "transaction_id": "REPEAT-0170",
-      "account_id": "ACCT-1010",
-      "date": "2026-10-06",
-      "amount_paise": 500000
+      "account_id": "ACCT-1017",
+      "date": "2026-10-01",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-057"
     },
     {
       "transaction_id": "REPEAT-0171",
-      "account_id": "ACCT-1011",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1017",
+      "date": "2026-10-01",
+      "amount_paise": 100,
+      "source_group": "REPEAT-GROUP-057"
     },
     {
       "transaction_id": "REPEAT-0172",
-      "account_id": "ACCT-1012",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1018",
+      "date": "2026-10-02",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-058"
     },
     {
       "transaction_id": "REPEAT-0173",
-      "account_id": "ACCT-1013",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1018",
+      "date": "2026-10-02",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-058"
     },
     {
       "transaction_id": "REPEAT-0174",
-      "account_id": "ACCT-1014",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1018",
+      "date": "2026-10-02",
+      "amount_paise": 10000,
+      "source_group": "REPEAT-GROUP-058"
     },
     {
       "transaction_id": "REPEAT-0175",
-      "account_id": "ACCT-1015",
-      "date": "2026-10-07",
-      "amount_paise": 500000
+      "account_id": "ACCT-1019",
+      "date": "2026-10-03",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-059"
     },
     {
       "transaction_id": "REPEAT-0176",
-      "account_id": "ACCT-1016",
-      "date": "2026-10-08",
-      "amount_paise": 0
+      "account_id": "ACCT-1019",
+      "date": "2026-10-03",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-059"
     },
     {
       "transaction_id": "REPEAT-0177",
-      "account_id": "ACCT-1017",
-      "date": "2026-10-08",
-      "amount_paise": 100
+      "account_id": "ACCT-1019",
+      "date": "2026-10-03",
+      "amount_paise": 99999,
+      "source_group": "REPEAT-GROUP-059"
     },
     {
       "transaction_id": "REPEAT-0178",
-      "account_id": "ACCT-1018",
-      "date": "2026-10-08",
-      "amount_paise": 10000
+      "account_id": "ACCT-1020",
+      "date": "2026-10-04",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-060"
     },
     {
       "transaction_id": "REPEAT-0179",
-      "account_id": "ACCT-1019",
-      "date": "2026-10-08",
-      "amount_paise": 99999
+      "account_id": "ACCT-1020",
+      "date": "2026-10-04",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-060"
     },
     {
       "transaction_id": "REPEAT-0180",
       "account_id": "ACCT-1020",
-      "date": "2026-10-08",
-      "amount_paise": 500000
+      "date": "2026-10-04",
+      "amount_paise": 500000,
+      "source_group": "REPEAT-GROUP-060"
     }
   ],
   "reward_events": [
@@ -4250,5 +4430,6 @@
     "ledger balance consistency and no negative points balance",
     "same account/date/amount repeat threshold and deterministic alert order"
   ],
-  "note": "Synthetic rewards evaluation dataset only. No customer-identifying data. It includes repeat-pattern examples and malformed event values for edge-case investigation."
+  "note": "Synthetic rewards evaluation dataset only. No customer-identifying data. It includes repeat-pattern examples and malformed event values for edge-case investigation.",
+  "repeat_pattern_note": "Each three consecutive records belong to the same account/date/amount group, creating deliberate repeat-patterns for threshold=2 review. Use these as human-review alerts, not proof of misuse."
 }
