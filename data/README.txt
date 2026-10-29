@@ -1,1 +1,1 @@
-Sample JSON records for ClubBudget. Do not commit private financial information or secrets.
+RewardBook dataset v2 (all records synthetic): records.json contains 40 accounts, 180 repeat-transaction records, 264 reward event examples, 180 captured-purchase records, 8 reward-rule cases and 10 edge-case categories. Covers paise boundaries, bonus/cap settings, duplicate/malformed events, refund reversal, ledger integrity and repeat alerts. The main demo uses fixtures.py; records.json is the larger dataset for investigation and additional tests. No real customer data.
