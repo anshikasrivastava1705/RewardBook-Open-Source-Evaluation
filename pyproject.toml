@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "clubbudget-evaluation-starter"
 version = "1.0.0"
-description = "Manage campus club expenses and budgets"
+description = "Loyalty rewards, points calculation, refund reversals and repeat-transaction alerts"
 requires-python = ">=3.10"
 
 [tool.pytest.ini_options]
