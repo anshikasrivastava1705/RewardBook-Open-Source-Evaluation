@@ -1,0 +1,4254 @@
+{
+  "dataset_version": 2,
+  "accounts": [
+    {
+      "account_id": "ACCT-1001",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1002",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1003",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1004",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1005",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1006",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1007",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1008",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1009",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1010",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1011",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1012",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1013",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1014",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1015",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1016",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1017",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1018",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1019",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1020",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1021",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1022",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1023",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1024",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1025",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1026",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1027",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1028",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1029",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1030",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1031",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1032",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1033",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1034",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1035",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1036",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1037",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1038",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1039",
+      "opening_points": 0
+    },
+    {
+      "account_id": "ACCT-1040",
+      "opening_points": 0
+    }
+  ],
+  "transactions": [
+    {
+      "transaction_id": "REPEAT-0001",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-01",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0002",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-01",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0003",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-01",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0004",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-01",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0005",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-01",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0006",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-02",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0007",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-02",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0008",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-02",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0009",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-02",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0010",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-02",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0011",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0012",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0013",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0014",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0015",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0016",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-04",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0017",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-04",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0018",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-04",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0019",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-04",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0020",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-04",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0021",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0022",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0023",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0024",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0025",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0026",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-06",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0027",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-06",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0028",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-06",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0029",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-06",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0030",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-06",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0031",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0032",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0033",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0034",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0035",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0036",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-08",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0037",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-08",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0038",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-08",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0039",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-08",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0040",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-08",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0041",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-09",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0042",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-09",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0043",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-09",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0044",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-09",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0045",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-09",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0046",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-10",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0047",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-10",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0048",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-10",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0049",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-10",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0050",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-10",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0051",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-11",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0052",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-11",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0053",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-11",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0054",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-11",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0055",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-11",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0056",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-12",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0057",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-12",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0058",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-12",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0059",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-12",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0060",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-12",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0061",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-13",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0062",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-13",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0063",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-13",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0064",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-13",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0065",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-13",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0066",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-14",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0067",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-14",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0068",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-14",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0069",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-14",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0070",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-14",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0071",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-15",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0072",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-15",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0073",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-15",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0074",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-15",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0075",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-15",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0076",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-16",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0077",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-16",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0078",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-16",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0079",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-16",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0080",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-16",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0081",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-17",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0082",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-17",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0083",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-17",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0084",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-17",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0085",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-17",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0086",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-18",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0087",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-18",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0088",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-18",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0089",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-18",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0090",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-18",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0091",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-19",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0092",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-19",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0093",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-19",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0094",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-19",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0095",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-19",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0096",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-20",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0097",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-20",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0098",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-20",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0099",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-20",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0100",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-20",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0101",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-21",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0102",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-21",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0103",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-21",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0104",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-21",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0105",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-21",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0106",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-22",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0107",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-22",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0108",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-22",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0109",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-22",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0110",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-22",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0111",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-23",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0112",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-23",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0113",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-23",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0114",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-23",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0115",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-23",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0116",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-24",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0117",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-24",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0118",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-24",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0119",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-24",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0120",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-24",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0121",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-25",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0122",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-25",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0123",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-25",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0124",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-25",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0125",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-25",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0126",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-26",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0127",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-26",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0128",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-26",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0129",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-26",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0130",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-26",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0131",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-27",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0132",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-27",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0133",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-27",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0134",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-27",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0135",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-27",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0136",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-28",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0137",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-28",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0138",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-28",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0139",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-28",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0140",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-28",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0141",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-01",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0142",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-01",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0143",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-01",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0144",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-01",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0145",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-01",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0146",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-02",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0147",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-02",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0148",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-02",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0149",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-02",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0150",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-02",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0151",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0152",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0153",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0154",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0155",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-03",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0156",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-04",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0157",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-04",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0158",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-04",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0159",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-04",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0160",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-04",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0161",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0162",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0163",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0164",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0165",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-05",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0166",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-06",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0167",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-06",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0168",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-06",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0169",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-06",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0170",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-06",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0171",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0172",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0173",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0174",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0175",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-07",
+      "amount_paise": 500000
+    },
+    {
+      "transaction_id": "REPEAT-0176",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-08",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "REPEAT-0177",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-08",
+      "amount_paise": 100
+    },
+    {
+      "transaction_id": "REPEAT-0178",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-08",
+      "amount_paise": 10000
+    },
+    {
+      "transaction_id": "REPEAT-0179",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-08",
+      "amount_paise": 99999
+    },
+    {
+      "transaction_id": "REPEAT-0180",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-08",
+      "amount_paise": 500000
+    }
+  ],
+  "reward_events": [
+    {
+      "transaction_id": "RW-TX-0001",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 1
+    },
+    {
+      "transaction_id": "RW-TX-0001",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 1
+    },
+    {
+      "event_id": "RW-REPLAY-0",
+      "transaction_id": "RW-TX-0001",
+      "account_id": "ACCT-1001",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0002",
+      "transaction_id": "RW-TX-0002",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": 99
+    },
+    {
+      "event_id": "RW-EV-0003",
+      "transaction_id": "RW-TX-0003",
+      "account_id": "ACCT-1003",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0004",
+      "transaction_id": "RW-TX-0004",
+      "account_id": "ACCT-1004",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0005",
+      "transaction_id": "RW-TX-0005",
+      "account_id": "ACCT-1005",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0006",
+      "transaction_id": "RW-TX-0006",
+      "account_id": "ACCT-1006",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0007",
+      "transaction_id": "RW-TX-0007",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0008",
+      "transaction_id": "RW-TX-0008",
+      "account_id": "ACCT-1008",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0009",
+      "transaction_id": "RW-TX-0009",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0010",
+      "transaction_id": "RW-TX-0010",
+      "account_id": "ACCT-1010",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0011",
+      "transaction_id": "RW-TX-0011",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0012",
+      "transaction_id": "RW-TX-0012",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": 1.5
+    },
+    {
+      "event_id": "RW-EV-0013",
+      "transaction_id": "RW-TX-0013",
+      "account_id": "ACCT-1013",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0014",
+      "transaction_id": "RW-TX-0014",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0015",
+      "transaction_id": "RW-TX-0015",
+      "account_id": "ACCT-1015",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0016",
+      "transaction_id": "RW-TX-0016",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0017",
+      "transaction_id": "RW-TX-0017",
+      "account_id": "ACCT-1017",
+      "type": "refund_processed",
+      "amount_paise": []
+    },
+    {
+      "event_id": "RW-EV-0018",
+      "transaction_id": "RW-TX-0018",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0019",
+      "transaction_id": "RW-TX-0019",
+      "account_id": "ACCT-1019",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0020",
+      "transaction_id": "RW-TX-0020",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0020",
+      "transaction_id": "RW-TX-0020",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0021",
+      "transaction_id": "RW-TX-0021",
+      "account_id": "ACCT-1021",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0022",
+      "transaction_id": "RW-TX-0022",
+      "account_id": "ACCT-1022",
+      "type": "refund_processed",
+      "amount_paise": 1000
+    },
+    {
+      "event_id": "RW-EV-0023",
+      "transaction_id": "RW-TX-0023",
+      "account_id": "ACCT-1023",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0024",
+      "transaction_id": "RW-TX-0024",
+      "account_id": "ACCT-1024",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-REPLAY-23",
+      "transaction_id": "RW-TX-0024",
+      "account_id": "ACCT-1024",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0025",
+      "transaction_id": "RW-TX-0025",
+      "account_id": "ACCT-1025",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0026",
+      "transaction_id": "RW-TX-0026",
+      "account_id": "ACCT-1026",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0027",
+      "transaction_id": "RW-TX-0027",
+      "account_id": "ACCT-1027",
+      "type": "refund_processed",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0028",
+      "transaction_id": "RW-TX-0028",
+      "account_id": "ACCT-1028",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0029",
+      "transaction_id": "RW-TX-0029",
+      "account_id": "ACCT-1029",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0030",
+      "transaction_id": "RW-TX-0030",
+      "account_id": "ACCT-1030",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0031",
+      "transaction_id": "RW-TX-0031",
+      "account_id": "ACCT-1031",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "transaction_id": "RW-TX-0032",
+      "account_id": "ACCT-1032",
+      "type": "refund_processed",
+      "amount_paise": "100"
+    },
+    {
+      "event_id": "RW-EV-0033",
+      "transaction_id": "RW-TX-0033",
+      "account_id": "ACCT-1033",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0034",
+      "transaction_id": "RW-TX-0034",
+      "account_id": "ACCT-1034",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0035",
+      "transaction_id": "RW-TX-0035",
+      "account_id": "ACCT-1035",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0036",
+      "transaction_id": "RW-TX-0036",
+      "account_id": "ACCT-1036",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0037",
+      "transaction_id": "RW-TX-0037",
+      "account_id": "ACCT-1037",
+      "type": "refund_processed",
+      "amount_paise": 100
+    },
+    {
+      "event_id": "RW-EV-0038",
+      "transaction_id": "RW-TX-0038",
+      "account_id": "ACCT-1038",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0039",
+      "transaction_id": "RW-TX-0039",
+      "account_id": "ACCT-1039",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0039",
+      "transaction_id": "RW-TX-0039",
+      "account_id": "ACCT-1039",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0040",
+      "transaction_id": "RW-TX-0040",
+      "account_id": "ACCT-1040",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0041",
+      "transaction_id": "RW-TX-0041",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0042",
+      "transaction_id": "RW-TX-0042",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": 10000
+    },
+    {
+      "event_id": "RW-EV-0043",
+      "transaction_id": "RW-TX-0043",
+      "account_id": "ACCT-1003",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0044",
+      "transaction_id": "RW-TX-0044",
+      "account_id": "ACCT-1004",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0045",
+      "transaction_id": "RW-TX-0045",
+      "account_id": "ACCT-1005",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0046",
+      "transaction_id": "RW-TX-0046",
+      "account_id": "ACCT-1006",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0047",
+      "transaction_id": "RW-TX-0047",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": true
+    },
+    {
+      "event_id": "RW-REPLAY-46",
+      "transaction_id": "RW-TX-0047",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0048",
+      "transaction_id": "RW-TX-0048",
+      "account_id": "ACCT-1008",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0049",
+      "transaction_id": "RW-TX-0049",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0050",
+      "transaction_id": "RW-TX-0050",
+      "account_id": "ACCT-1010",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0051",
+      "transaction_id": "RW-TX-0051",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0052",
+      "transaction_id": "RW-TX-0052",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": 1
+    },
+    {
+      "event_id": "RW-EV-0053",
+      "transaction_id": "RW-TX-0053",
+      "account_id": "ACCT-1013",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0054",
+      "transaction_id": "RW-TX-0054",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0055",
+      "transaction_id": "RW-TX-0055",
+      "account_id": "ACCT-1015",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0056",
+      "transaction_id": "RW-TX-0056",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0057",
+      "transaction_id": "RW-TX-0057",
+      "account_id": "ACCT-1017",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0058",
+      "transaction_id": "RW-TX-0058",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0058",
+      "transaction_id": "RW-TX-0058",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0059",
+      "transaction_id": "RW-TX-0059",
+      "account_id": "ACCT-1019",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0060",
+      "transaction_id": "RW-TX-0060",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0061",
+      "transaction_id": "RW-TX-0061",
+      "account_id": "ACCT-1021",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0062",
+      "transaction_id": "RW-TX-0062",
+      "account_id": "ACCT-1022",
+      "type": "refund_processed",
+      "amount_paise": -1
+    },
+    {
+      "transaction_id": "RW-TX-0063",
+      "account_id": "ACCT-1023",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0064",
+      "transaction_id": "RW-TX-0064",
+      "account_id": "ACCT-1024",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0065",
+      "transaction_id": "RW-TX-0065",
+      "account_id": "ACCT-1025",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0066",
+      "transaction_id": "RW-TX-0066",
+      "account_id": "ACCT-1026",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0067",
+      "transaction_id": "RW-TX-0067",
+      "account_id": "ACCT-1027",
+      "type": "refund_processed",
+      "amount_paise": {}
+    },
+    {
+      "event_id": "RW-EV-0068",
+      "transaction_id": "RW-TX-0068",
+      "account_id": "ACCT-1028",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0069",
+      "transaction_id": "RW-TX-0069",
+      "account_id": "ACCT-1029",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0070",
+      "transaction_id": "RW-TX-0070",
+      "account_id": "ACCT-1030",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-REPLAY-69",
+      "transaction_id": "RW-TX-0070",
+      "account_id": "ACCT-1030",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0071",
+      "transaction_id": "RW-TX-0071",
+      "account_id": "ACCT-1031",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0072",
+      "transaction_id": "RW-TX-0072",
+      "account_id": "ACCT-1032",
+      "type": "refund_processed",
+      "amount_paise": 999
+    },
+    {
+      "event_id": "RW-EV-0073",
+      "transaction_id": "RW-TX-0073",
+      "account_id": "ACCT-1033",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0074",
+      "transaction_id": "RW-TX-0074",
+      "account_id": "ACCT-1034",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0075",
+      "transaction_id": "RW-TX-0075",
+      "account_id": "ACCT-1035",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0076",
+      "transaction_id": "RW-TX-0076",
+      "account_id": "ACCT-1036",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0077",
+      "transaction_id": "RW-TX-0077",
+      "account_id": "ACCT-1037",
+      "type": "refund_processed",
+      "amount_paise": 259900
+    },
+    {
+      "event_id": "RW-EV-0077",
+      "transaction_id": "RW-TX-0077",
+      "account_id": "ACCT-1037",
+      "type": "refund_processed",
+      "amount_paise": 259900
+    },
+    {
+      "event_id": "RW-EV-0078",
+      "transaction_id": "RW-TX-0078",
+      "account_id": "ACCT-1038",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0079",
+      "transaction_id": "RW-TX-0079",
+      "account_id": "ACCT-1039",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0080",
+      "transaction_id": "RW-TX-0080",
+      "account_id": "ACCT-1040",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0081",
+      "transaction_id": "RW-TX-0081",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0082",
+      "transaction_id": "RW-TX-0082",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": null
+    },
+    {
+      "event_id": "RW-EV-0083",
+      "transaction_id": "RW-TX-0083",
+      "account_id": "ACCT-1003",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0084",
+      "transaction_id": "RW-TX-0084",
+      "account_id": "ACCT-1004",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0085",
+      "transaction_id": "RW-TX-0085",
+      "account_id": "ACCT-1005",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0086",
+      "transaction_id": "RW-TX-0086",
+      "account_id": "ACCT-1006",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0087",
+      "transaction_id": "RW-TX-0087",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": 99
+    },
+    {
+      "event_id": "RW-EV-0088",
+      "transaction_id": "RW-TX-0088",
+      "account_id": "ACCT-1008",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0089",
+      "transaction_id": "RW-TX-0089",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0090",
+      "transaction_id": "RW-TX-0090",
+      "account_id": "ACCT-1010",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0091",
+      "transaction_id": "RW-TX-0091",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0092",
+      "transaction_id": "RW-TX-0092",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0093",
+      "transaction_id": "RW-TX-0093",
+      "account_id": "ACCT-1013",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-REPLAY-92",
+      "transaction_id": "RW-TX-0093",
+      "account_id": "ACCT-1013",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "transaction_id": "RW-TX-0094",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0095",
+      "transaction_id": "RW-TX-0095",
+      "account_id": "ACCT-1015",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0096",
+      "transaction_id": "RW-TX-0096",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 10000
+    },
+    {
+      "event_id": "RW-EV-0096",
+      "transaction_id": "RW-TX-0096",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 10000
+    },
+    {
+      "event_id": "RW-EV-0097",
+      "transaction_id": "RW-TX-0097",
+      "account_id": "ACCT-1017",
+      "type": "refund_processed",
+      "amount_paise": 1.5
+    },
+    {
+      "event_id": "RW-EV-0098",
+      "transaction_id": "RW-TX-0098",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0099",
+      "transaction_id": "RW-TX-0099",
+      "account_id": "ACCT-1019",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0100",
+      "transaction_id": "RW-TX-0100",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0101",
+      "transaction_id": "RW-TX-0101",
+      "account_id": "ACCT-1021",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0102",
+      "transaction_id": "RW-TX-0102",
+      "account_id": "ACCT-1022",
+      "type": "refund_processed",
+      "amount_paise": []
+    },
+    {
+      "event_id": "RW-EV-0103",
+      "transaction_id": "RW-TX-0103",
+      "account_id": "ACCT-1023",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0104",
+      "transaction_id": "RW-TX-0104",
+      "account_id": "ACCT-1024",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0105",
+      "transaction_id": "RW-TX-0105",
+      "account_id": "ACCT-1025",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0106",
+      "transaction_id": "RW-TX-0106",
+      "account_id": "ACCT-1026",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0107",
+      "transaction_id": "RW-TX-0107",
+      "account_id": "ACCT-1027",
+      "type": "refund_processed",
+      "amount_paise": 1000
+    },
+    {
+      "event_id": "RW-EV-0108",
+      "transaction_id": "RW-TX-0108",
+      "account_id": "ACCT-1028",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0109",
+      "transaction_id": "RW-TX-0109",
+      "account_id": "ACCT-1029",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0110",
+      "transaction_id": "RW-TX-0110",
+      "account_id": "ACCT-1030",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0111",
+      "transaction_id": "RW-TX-0111",
+      "account_id": "ACCT-1031",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0112",
+      "transaction_id": "RW-TX-0112",
+      "account_id": "ACCT-1032",
+      "type": "refund_processed",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0113",
+      "transaction_id": "RW-TX-0113",
+      "account_id": "ACCT-1033",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0114",
+      "transaction_id": "RW-TX-0114",
+      "account_id": "ACCT-1034",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0115",
+      "transaction_id": "RW-TX-0115",
+      "account_id": "ACCT-1035",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0115",
+      "transaction_id": "RW-TX-0115",
+      "account_id": "ACCT-1035",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0116",
+      "transaction_id": "RW-TX-0116",
+      "account_id": "ACCT-1036",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-REPLAY-115",
+      "transaction_id": "RW-TX-0116",
+      "account_id": "ACCT-1036",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0117",
+      "transaction_id": "RW-TX-0117",
+      "account_id": "ACCT-1037",
+      "type": "refund_processed",
+      "amount_paise": "100"
+    },
+    {
+      "event_id": "RW-EV-0118",
+      "transaction_id": "RW-TX-0118",
+      "account_id": "ACCT-1038",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0119",
+      "transaction_id": "RW-TX-0119",
+      "account_id": "ACCT-1039",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0120",
+      "transaction_id": "RW-TX-0120",
+      "account_id": "ACCT-1040",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0121",
+      "transaction_id": "RW-TX-0121",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0122",
+      "transaction_id": "RW-TX-0122",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": 100
+    },
+    {
+      "event_id": "RW-EV-0123",
+      "transaction_id": "RW-TX-0123",
+      "account_id": "ACCT-1003",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0124",
+      "transaction_id": "RW-TX-0124",
+      "account_id": "ACCT-1004",
+      "type": "purchase_declined"
+    },
+    {
+      "transaction_id": "RW-TX-0125",
+      "account_id": "ACCT-1005",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0126",
+      "transaction_id": "RW-TX-0126",
+      "account_id": "ACCT-1006",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0127",
+      "transaction_id": "RW-TX-0127",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": 10000
+    },
+    {
+      "event_id": "RW-EV-0128",
+      "transaction_id": "RW-TX-0128",
+      "account_id": "ACCT-1008",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0129",
+      "transaction_id": "RW-TX-0129",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0130",
+      "transaction_id": "RW-TX-0130",
+      "account_id": "ACCT-1010",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0131",
+      "transaction_id": "RW-TX-0131",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0132",
+      "transaction_id": "RW-TX-0132",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": true
+    },
+    {
+      "event_id": "RW-EV-0133",
+      "transaction_id": "RW-TX-0133",
+      "account_id": "ACCT-1013",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0134",
+      "transaction_id": "RW-TX-0134",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0134",
+      "transaction_id": "RW-TX-0134",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0135",
+      "transaction_id": "RW-TX-0135",
+      "account_id": "ACCT-1015",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0136",
+      "transaction_id": "RW-TX-0136",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0137",
+      "transaction_id": "RW-TX-0137",
+      "account_id": "ACCT-1017",
+      "type": "refund_processed",
+      "amount_paise": 1
+    },
+    {
+      "event_id": "RW-EV-0138",
+      "transaction_id": "RW-TX-0138",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0139",
+      "transaction_id": "RW-TX-0139",
+      "account_id": "ACCT-1019",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-REPLAY-138",
+      "transaction_id": "RW-TX-0139",
+      "account_id": "ACCT-1019",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0140",
+      "transaction_id": "RW-TX-0140",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0141",
+      "transaction_id": "RW-TX-0141",
+      "account_id": "ACCT-1021",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0142",
+      "transaction_id": "RW-TX-0142",
+      "account_id": "ACCT-1022",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0143",
+      "transaction_id": "RW-TX-0143",
+      "account_id": "ACCT-1023",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0144",
+      "transaction_id": "RW-TX-0144",
+      "account_id": "ACCT-1024",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0145",
+      "transaction_id": "RW-TX-0145",
+      "account_id": "ACCT-1025",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0146",
+      "transaction_id": "RW-TX-0146",
+      "account_id": "ACCT-1026",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0147",
+      "transaction_id": "RW-TX-0147",
+      "account_id": "ACCT-1027",
+      "type": "refund_processed",
+      "amount_paise": -1
+    },
+    {
+      "event_id": "RW-EV-0148",
+      "transaction_id": "RW-TX-0148",
+      "account_id": "ACCT-1028",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0149",
+      "transaction_id": "RW-TX-0149",
+      "account_id": "ACCT-1029",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0150",
+      "transaction_id": "RW-TX-0150",
+      "account_id": "ACCT-1030",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0151",
+      "transaction_id": "RW-TX-0151",
+      "account_id": "ACCT-1031",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0152",
+      "transaction_id": "RW-TX-0152",
+      "account_id": "ACCT-1032",
+      "type": "refund_processed",
+      "amount_paise": {}
+    },
+    {
+      "event_id": "RW-EV-0153",
+      "transaction_id": "RW-TX-0153",
+      "account_id": "ACCT-1033",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0153",
+      "transaction_id": "RW-TX-0153",
+      "account_id": "ACCT-1033",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0154",
+      "transaction_id": "RW-TX-0154",
+      "account_id": "ACCT-1034",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0155",
+      "transaction_id": "RW-TX-0155",
+      "account_id": "ACCT-1035",
+      "type": "unknown_event"
+    },
+    {
+      "transaction_id": "RW-TX-0156",
+      "account_id": "ACCT-1036",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0157",
+      "transaction_id": "RW-TX-0157",
+      "account_id": "ACCT-1037",
+      "type": "refund_processed",
+      "amount_paise": 999
+    },
+    {
+      "event_id": "RW-EV-0158",
+      "transaction_id": "RW-TX-0158",
+      "account_id": "ACCT-1038",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0159",
+      "transaction_id": "RW-TX-0159",
+      "account_id": "ACCT-1039",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0160",
+      "transaction_id": "RW-TX-0160",
+      "account_id": "ACCT-1040",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0161",
+      "transaction_id": "RW-TX-0161",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0162",
+      "transaction_id": "RW-TX-0162",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": 259900
+    },
+    {
+      "event_id": "RW-REPLAY-161",
+      "transaction_id": "RW-TX-0162",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0163",
+      "transaction_id": "RW-TX-0163",
+      "account_id": "ACCT-1003",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0164",
+      "transaction_id": "RW-TX-0164",
+      "account_id": "ACCT-1004",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0165",
+      "transaction_id": "RW-TX-0165",
+      "account_id": "ACCT-1005",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0166",
+      "transaction_id": "RW-TX-0166",
+      "account_id": "ACCT-1006",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0167",
+      "transaction_id": "RW-TX-0167",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": null
+    },
+    {
+      "event_id": "RW-EV-0168",
+      "transaction_id": "RW-TX-0168",
+      "account_id": "ACCT-1008",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0169",
+      "transaction_id": "RW-TX-0169",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0170",
+      "transaction_id": "RW-TX-0170",
+      "account_id": "ACCT-1010",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0171",
+      "transaction_id": "RW-TX-0171",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0172",
+      "transaction_id": "RW-TX-0172",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": 99
+    },
+    {
+      "event_id": "RW-EV-0172",
+      "transaction_id": "RW-TX-0172",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": 99
+    },
+    {
+      "event_id": "RW-EV-0173",
+      "transaction_id": "RW-TX-0173",
+      "account_id": "ACCT-1013",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0174",
+      "transaction_id": "RW-TX-0174",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0175",
+      "transaction_id": "RW-TX-0175",
+      "account_id": "ACCT-1015",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0176",
+      "transaction_id": "RW-TX-0176",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0177",
+      "transaction_id": "RW-TX-0177",
+      "account_id": "ACCT-1017",
+      "type": "refund_processed",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0178",
+      "transaction_id": "RW-TX-0178",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0179",
+      "transaction_id": "RW-TX-0179",
+      "account_id": "ACCT-1019",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0180",
+      "transaction_id": "RW-TX-0180",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0181",
+      "transaction_id": "RW-TX-0001",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 1
+    },
+    {
+      "event_id": "RW-EV-0182",
+      "transaction_id": "RW-TX-0002",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": 1.5
+    },
+    {
+      "event_id": "RW-EV-0183",
+      "transaction_id": "RW-TX-0003",
+      "account_id": "ACCT-1003",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0184",
+      "transaction_id": "RW-TX-0004",
+      "account_id": "ACCT-1004",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0185",
+      "transaction_id": "RW-TX-0005",
+      "account_id": "ACCT-1005",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-REPLAY-184",
+      "transaction_id": "RW-TX-0005",
+      "account_id": "ACCT-1005",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0186",
+      "transaction_id": "RW-TX-0006",
+      "account_id": "ACCT-1006",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "transaction_id": "RW-TX-0007",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": []
+    },
+    {
+      "event_id": "RW-EV-0188",
+      "transaction_id": "RW-TX-0008",
+      "account_id": "ACCT-1008",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0189",
+      "transaction_id": "RW-TX-0009",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0190",
+      "transaction_id": "RW-TX-0010",
+      "account_id": "ACCT-1010",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0191",
+      "transaction_id": "RW-TX-0011",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0191",
+      "transaction_id": "RW-TX-0011",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0192",
+      "transaction_id": "RW-TX-0012",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": 1000
+    },
+    {
+      "event_id": "RW-EV-0193",
+      "transaction_id": "RW-TX-0013",
+      "account_id": "ACCT-1013",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0194",
+      "transaction_id": "RW-TX-0014",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0195",
+      "transaction_id": "RW-TX-0015",
+      "account_id": "ACCT-1015",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0196",
+      "transaction_id": "RW-TX-0016",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0197",
+      "transaction_id": "RW-TX-0017",
+      "account_id": "ACCT-1017",
+      "type": "refund_processed",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0198",
+      "transaction_id": "RW-TX-0018",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0199",
+      "transaction_id": "RW-TX-0019",
+      "account_id": "ACCT-1019",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0200",
+      "transaction_id": "RW-TX-0020",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0201",
+      "transaction_id": "RW-TX-0021",
+      "account_id": "ACCT-1021",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0202",
+      "transaction_id": "RW-TX-0022",
+      "account_id": "ACCT-1022",
+      "type": "refund_processed",
+      "amount_paise": "100"
+    },
+    {
+      "event_id": "RW-EV-0203",
+      "transaction_id": "RW-TX-0023",
+      "account_id": "ACCT-1023",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0204",
+      "transaction_id": "RW-TX-0024",
+      "account_id": "ACCT-1024",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0205",
+      "transaction_id": "RW-TX-0025",
+      "account_id": "ACCT-1025",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0206",
+      "transaction_id": "RW-TX-0026",
+      "account_id": "ACCT-1026",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0207",
+      "transaction_id": "RW-TX-0027",
+      "account_id": "ACCT-1027",
+      "type": "refund_processed",
+      "amount_paise": 100
+    },
+    {
+      "event_id": "RW-EV-0208",
+      "transaction_id": "RW-TX-0028",
+      "account_id": "ACCT-1028",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-REPLAY-207",
+      "transaction_id": "RW-TX-0028",
+      "account_id": "ACCT-1028",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0209",
+      "transaction_id": "RW-TX-0029",
+      "account_id": "ACCT-1029",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0210",
+      "transaction_id": "RW-TX-0030",
+      "account_id": "ACCT-1030",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0210",
+      "transaction_id": "RW-TX-0030",
+      "account_id": "ACCT-1030",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0211",
+      "transaction_id": "RW-TX-0031",
+      "account_id": "ACCT-1031",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0212",
+      "transaction_id": "RW-TX-0032",
+      "account_id": "ACCT-1032",
+      "type": "refund_processed",
+      "amount_paise": 10000
+    },
+    {
+      "event_id": "RW-EV-0213",
+      "transaction_id": "RW-TX-0033",
+      "account_id": "ACCT-1033",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0214",
+      "transaction_id": "RW-TX-0034",
+      "account_id": "ACCT-1034",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0215",
+      "transaction_id": "RW-TX-0035",
+      "account_id": "ACCT-1035",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0216",
+      "transaction_id": "RW-TX-0036",
+      "account_id": "ACCT-1036",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-EV-0217",
+      "transaction_id": "RW-TX-0037",
+      "account_id": "ACCT-1037",
+      "type": "refund_processed",
+      "amount_paise": true
+    },
+    {
+      "transaction_id": "RW-TX-0038",
+      "account_id": "ACCT-1038",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0219",
+      "transaction_id": "RW-TX-0039",
+      "account_id": "ACCT-1039",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0220",
+      "transaction_id": "RW-TX-0040",
+      "account_id": "ACCT-1040",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0221",
+      "transaction_id": "RW-TX-0041",
+      "account_id": "ACCT-1001",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0222",
+      "transaction_id": "RW-TX-0042",
+      "account_id": "ACCT-1002",
+      "type": "refund_processed",
+      "amount_paise": 1
+    },
+    {
+      "event_id": "RW-EV-0223",
+      "transaction_id": "RW-TX-0043",
+      "account_id": "ACCT-1003",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0224",
+      "transaction_id": "RW-TX-0044",
+      "account_id": "ACCT-1004",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0225",
+      "transaction_id": "RW-TX-0045",
+      "account_id": "ACCT-1005",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0226",
+      "transaction_id": "RW-TX-0046",
+      "account_id": "ACCT-1006",
+      "type": "purchase_captured",
+      "amount_paise": 0
+    },
+    {
+      "event_id": "RW-EV-0227",
+      "transaction_id": "RW-TX-0047",
+      "account_id": "ACCT-1007",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0228",
+      "transaction_id": "RW-TX-0048",
+      "account_id": "ACCT-1008",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0229",
+      "transaction_id": "RW-TX-0049",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0229",
+      "transaction_id": "RW-TX-0049",
+      "account_id": "ACCT-1009",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0230",
+      "transaction_id": "RW-TX-0050",
+      "account_id": "ACCT-1010",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0231",
+      "transaction_id": "RW-TX-0051",
+      "account_id": "ACCT-1011",
+      "type": "purchase_captured",
+      "amount_paise": 9999
+    },
+    {
+      "event_id": "RW-REPLAY-230",
+      "transaction_id": "RW-TX-0051",
+      "account_id": "ACCT-1011",
+      "type": "refund_processed",
+      "amount_paise": 2500
+    },
+    {
+      "event_id": "RW-EV-0232",
+      "transaction_id": "RW-TX-0052",
+      "account_id": "ACCT-1012",
+      "type": "refund_processed",
+      "amount_paise": -1
+    },
+    {
+      "event_id": "RW-EV-0233",
+      "transaction_id": "RW-TX-0053",
+      "account_id": "ACCT-1013",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0234",
+      "transaction_id": "RW-TX-0054",
+      "account_id": "ACCT-1014",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0235",
+      "transaction_id": "RW-TX-0055",
+      "account_id": "ACCT-1015",
+      "type": "unknown_event"
+    },
+    {
+      "event_id": "RW-EV-0236",
+      "transaction_id": "RW-TX-0056",
+      "account_id": "ACCT-1016",
+      "type": "purchase_captured",
+      "amount_paise": 100000
+    },
+    {
+      "event_id": "RW-EV-0237",
+      "transaction_id": "RW-TX-0057",
+      "account_id": "ACCT-1017",
+      "type": "refund_processed",
+      "amount_paise": {}
+    },
+    {
+      "event_id": "RW-EV-0238",
+      "transaction_id": "RW-TX-0058",
+      "account_id": "ACCT-1018",
+      "type": "purchase_pending"
+    },
+    {
+      "event_id": "RW-EV-0239",
+      "transaction_id": "RW-TX-0059",
+      "account_id": "ACCT-1019",
+      "type": "purchase_declined"
+    },
+    {
+      "event_id": "RW-EV-0240",
+      "transaction_id": "RW-TX-0060",
+      "account_id": "ACCT-1020",
+      "type": "unknown_event"
+    }
+  ],
+  "captured_purchases": [
+    {
+      "transaction_id": "RW-TX-0001",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-01",
+      "amount_paise": 1,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0002",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-02",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0003",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-03",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0004",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-04",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0005",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-05",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0006",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-06",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0007",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-07",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0008",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-08",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0009",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-09",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0010",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-10",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0011",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-11",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0012",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-12",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0013",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-13",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0014",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-14",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0015",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-15",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0016",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-16",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0017",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-17",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0018",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-18",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0019",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-19",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0020",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-20",
+      "amount_paise": 1000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0021",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-21",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0022",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-22",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0023",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-23",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0024",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-24",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0025",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-25",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0026",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-26",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0027",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-27",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0028",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-28",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0029",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-01",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0030",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-02",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0031",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-03",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0032",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-04",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0033",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-05",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0034",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-06",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0035",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-07",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0036",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-08",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0037",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-09",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0038",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-10",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0039",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-11",
+      "amount_paise": 25001,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0040",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-12",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0041",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-13",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0042",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-14",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0043",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-15",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0044",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-16",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0045",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-17",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0046",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-18",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0047",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-19",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0048",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-20",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0049",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-21",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0050",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-22",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0051",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-23",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0052",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-24",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0053",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-25",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0054",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-26",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0055",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-27",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0056",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-28",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0057",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-01",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0058",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-02",
+      "amount_paise": 500001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0059",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-03",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0060",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-04",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0061",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-05",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0062",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-06",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0063",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-07",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0064",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-08",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0065",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-09",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0066",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-10",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0067",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-11",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0068",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-12",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0069",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-13",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0070",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-14",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0071",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-15",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0072",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-16",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0073",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-17",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0074",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-18",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0075",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-19",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0076",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-20",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0077",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-21",
+      "amount_paise": 2,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0078",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-22",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0079",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-23",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0080",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-24",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0081",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-25",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0082",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-26",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0083",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-27",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0084",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-28",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0085",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-01",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0086",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-02",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0087",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-03",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0088",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-04",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0089",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-05",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0090",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-06",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0091",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-07",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0092",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-08",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0093",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-09",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0094",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-10",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0095",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-11",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0096",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-12",
+      "amount_paise": 10000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0097",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-13",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0098",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-14",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0099",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-15",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0100",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-16",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0101",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-17",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0102",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-18",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0103",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-19",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0104",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-20",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0105",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-21",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0106",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-22",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0107",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-23",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0108",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-24",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0109",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-25",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0110",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-26",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0111",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-27",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0112",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-28",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0113",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-01",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0114",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-02",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0115",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-03",
+      "amount_paise": 100000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0116",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-04",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0117",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-05",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0118",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-06",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0119",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-07",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0120",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-08",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0121",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-09",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0122",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-10",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0123",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-11",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0124",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-12",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0125",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-13",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0126",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-14",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0127",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-15",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0128",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-16",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0129",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-17",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0130",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-18",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0131",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-19",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0132",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-20",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0133",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-21",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0134",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-22",
+      "amount_paise": 1000000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0135",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-23",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0136",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-24",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0137",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-25",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0138",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-26",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0139",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-27",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0140",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-28",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0141",
+      "account_id": "ACCT-1021",
+      "date": "2026-10-01",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0142",
+      "account_id": "ACCT-1022",
+      "date": "2026-10-02",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0143",
+      "account_id": "ACCT-1023",
+      "date": "2026-10-03",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0144",
+      "account_id": "ACCT-1024",
+      "date": "2026-10-04",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0145",
+      "account_id": "ACCT-1025",
+      "date": "2026-10-05",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0146",
+      "account_id": "ACCT-1026",
+      "date": "2026-10-06",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0147",
+      "account_id": "ACCT-1027",
+      "date": "2026-10-07",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0148",
+      "account_id": "ACCT-1028",
+      "date": "2026-10-08",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0149",
+      "account_id": "ACCT-1029",
+      "date": "2026-10-09",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0150",
+      "account_id": "ACCT-1030",
+      "date": "2026-10-10",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0151",
+      "account_id": "ACCT-1031",
+      "date": "2026-10-11",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0152",
+      "account_id": "ACCT-1032",
+      "date": "2026-10-12",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0153",
+      "account_id": "ACCT-1033",
+      "date": "2026-10-13",
+      "amount_paise": 100,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0154",
+      "account_id": "ACCT-1034",
+      "date": "2026-10-14",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0155",
+      "account_id": "ACCT-1035",
+      "date": "2026-10-15",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0156",
+      "account_id": "ACCT-1036",
+      "date": "2026-10-16",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0157",
+      "account_id": "ACCT-1037",
+      "date": "2026-10-17",
+      "amount_paise": 10000,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0158",
+      "account_id": "ACCT-1038",
+      "date": "2026-10-18",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0159",
+      "account_id": "ACCT-1039",
+      "date": "2026-10-19",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0160",
+      "account_id": "ACCT-1040",
+      "date": "2026-10-20",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0161",
+      "account_id": "ACCT-1001",
+      "date": "2026-10-21",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0162",
+      "account_id": "ACCT-1002",
+      "date": "2026-10-22",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0163",
+      "account_id": "ACCT-1003",
+      "date": "2026-10-23",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0164",
+      "account_id": "ACCT-1004",
+      "date": "2026-10-24",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0165",
+      "account_id": "ACCT-1005",
+      "date": "2026-10-25",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0166",
+      "account_id": "ACCT-1006",
+      "date": "2026-10-26",
+      "amount_paise": 0,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0167",
+      "account_id": "ACCT-1007",
+      "date": "2026-10-27",
+      "amount_paise": 1,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0168",
+      "account_id": "ACCT-1008",
+      "date": "2026-10-28",
+      "amount_paise": 99,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0169",
+      "account_id": "ACCT-1009",
+      "date": "2026-10-01",
+      "amount_paise": 100,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0170",
+      "account_id": "ACCT-1010",
+      "date": "2026-10-02",
+      "amount_paise": 999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0171",
+      "account_id": "ACCT-1011",
+      "date": "2026-10-03",
+      "amount_paise": 9999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0172",
+      "account_id": "ACCT-1012",
+      "date": "2026-10-04",
+      "amount_paise": 10001,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0173",
+      "account_id": "ACCT-1013",
+      "date": "2026-10-05",
+      "amount_paise": 10001,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0174",
+      "account_id": "ACCT-1014",
+      "date": "2026-10-06",
+      "amount_paise": 25000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0175",
+      "account_id": "ACCT-1015",
+      "date": "2026-10-07",
+      "amount_paise": 99999,
+      "status": "REFUNDED"
+    },
+    {
+      "transaction_id": "RW-TX-0176",
+      "account_id": "ACCT-1016",
+      "date": "2026-10-08",
+      "amount_paise": 100000,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0177",
+      "account_id": "ACCT-1017",
+      "date": "2026-10-09",
+      "amount_paise": 259900,
+      "status": "PENDING"
+    },
+    {
+      "transaction_id": "RW-TX-0178",
+      "account_id": "ACCT-1018",
+      "date": "2026-10-10",
+      "amount_paise": 500000,
+      "status": "DECLINED"
+    },
+    {
+      "transaction_id": "RW-TX-0179",
+      "account_id": "ACCT-1019",
+      "date": "2026-10-11",
+      "amount_paise": 999999,
+      "status": "CAPTURED"
+    },
+    {
+      "transaction_id": "RW-TX-0180",
+      "account_id": "ACCT-1020",
+      "date": "2026-10-12",
+      "amount_paise": 10000000,
+      "status": "REFUNDED"
+    }
+  ],
+  "rules_cases": [
+    {
+      "points_per_100_rupees": 1,
+      "bonus_percent": 0,
+      "cap_points": null
+    },
+    {
+      "points_per_100_rupees": 1,
+      "bonus_percent": 10,
+      "cap_points": 100
+    },
+    {
+      "points_per_100_rupees": 5,
+      "bonus_percent": 25,
+      "cap_points": 500
+    },
+    {
+      "points_per_100_rupees": 0,
+      "bonus_percent": 0,
+      "cap_points": 0
+    },
+    {
+      "points_per_100_rupees": 3,
+      "bonus_percent": 150,
+      "cap_points": 300
+    },
+    {
+      "points_per_100_rupees": -1,
+      "bonus_percent": 10,
+      "cap_points": 100
+    },
+    {
+      "points_per_100_rupees": 1,
+      "bonus_percent": -100,
+      "cap_points": null
+    },
+    {
+      "points_per_100_rupees": 1,
+      "bonus_percent": 0,
+      "cap_points": -1
+    }
+  ],
+  "repeat_alert_threshold": 2,
+  "edge_cases": [
+    "amounts immediately below, at and above 100-rupee boundaries",
+    "rounding/floor behaviour when calculating base points",
+    "bonus at 0%, 10%, 25%, 100%, and over 100%",
+    "zero, negative, missing, fractional, string, boolean, null and container input",
+    "cap_points absent, null, zero, negative, and below/above calculated points",
+    "pending or declined purchases must not earn points",
+    "duplicate capture and refund event IDs",
+    "partial refund, repeated refund, full refund, cumulative over-refund",
+    "ledger balance consistency and no negative points balance",
+    "same account/date/amount repeat threshold and deterministic alert order"
+  ],
+  "note": "Synthetic rewards evaluation dataset only. No customer-identifying data. It includes repeat-pattern examples and malformed event values for edge-case investigation."
+}

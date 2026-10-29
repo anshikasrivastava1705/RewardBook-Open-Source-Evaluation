@@ -1,17 +1,40 @@
-# ClubBudget — Student Starter
+# RewardBook — Rewards Rules & Repeat-Transaction Alerts
 
-**Zenith School of AI | Individual Open-Source Evaluation**
+Zenith School of AI | Individual Open-Source Evaluation | Python 3.10+ | Synthetic challenge data only
 
-A Python project for tracking student-club expenses, budgets, vendors and approvals.
+Fintech loyalty: points formulas, promotional rules, refund reversals, audit ledger and repeat alerts.
+
+## Start here — read before coding
+
+**Start with the [Student Reading Checklist](STUDENT_START_HERE.md).** It lists the required reading and every deliverable.
+
+- **[Open problem statement PDF](docs/Problem_Statement.pdf)**
+- [Read the full Markdown problem statement](STUDENT_PROBLEM_STATEMENT.md)
+- [Open all student instructions and required-file checklist](STUDENT_START_HERE.md)
 
 ## Setup
 
-From the repository root, run:
+1. Install Python 3.10+ and Git.
+2. Install dependencies: `python -m pip install -r requirements-dev.txt`
+3. Run visible tests: `python -m pytest -q`
+4. Run the offline demo: `python -m main`
 
-```bash
-python -m pip install -r requirements-dev.txt
-python -m pytest -q
-python -m main
-```
+Some visible tests are expected to fail on the untouched starter because the required behaviour is incomplete. This is intentional. Never delete, skip, weaken or bypass tests to make the check green.
 
-Read `STUDENT_PROBLEM_STATEMENT.md` before coding. The starter contains deliberate defects for students to investigate. Do not delete or weaken tests. Private evaluation tests are not included in this public repository.
+## Mandatory submission — code plus documentation
+
+Submit one pull request from your fork to this original repository; **do not merge it**. Read [CONTRIBUTING.md](CONTRIBUTING.md) and follow the [pull-request checklist](.github/PULL_REQUEST_TEMPLATE.md).
+
+You must complete all three Markdown documents; they are part of the 100-mark evaluation:
+
+- [`approach.md`](approach.md) — 5 marks
+- [`challenges.md`](challenges.md) — **COMPULSORY**, 5 marks
+- [`optimizations.md`](optimizations.md) — 5 marks
+
+Also submit `TESTING.md` and the challenge-specific notes file named in [the problem statement](STUDENT_PROBLEM_STATEMENT.md). Code alone is not a complete submission. All notes must reflect the work you actually performed.
+
+## Review the whole codebase
+
+Before editing, read the student checklist and inspect the source files, synthetic data, every test under `tests/`, environment/configuration files, and the workflows under `.github/workflows/`. Understand what each file does before changing it.
+
+The starter contains intentionally incomplete behaviour. Fix root causes and preserve the tests. Do not edit CI to evade failures. You must be able to explain your code and may be asked to make a small live modification.
