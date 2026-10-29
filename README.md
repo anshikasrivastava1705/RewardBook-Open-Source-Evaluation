@@ -1,5 +1,7 @@
 # RewardBook — Rewards Rules & Repeat-Transaction Alerts
 
+> **Central student guide:** [Read the complete Open-Source Evaluation Guide](https://github.com/sunitazenith07-lang/LabLedger-Open-Source-Evaluation/blob/main/OPEN_SOURCE_EVALUATION_STUDENT_GUIDE.md) — includes all four tracks, required reading, submission instructions, and the three compulsory documentation files.
+
 Zenith School of AI | Individual Open-Source Evaluation | Python 3.10+ | Synthetic challenge data only
 
 Fintech loyalty: points formulas, promotional rules, refund reversals, audit ledger and repeat alerts.
