@@ -50,6 +50,23 @@ Choose at most one: generate a CSV account statement; make the repeat threshold 
 ## Testing and GitHub Actions
 The untouched starter is expected to have some failing visible tests because behaviours are incomplete. The exact test count is not fixed. GitHub Actions runs on pushes and pull-request updates and publishes test counts. A red check before fixes is expected; make the visible tests pass without deleting, skipping, weakening or bypassing them. Do not alter the workflow to evade failures.
 
+## Final submission checklist — complete every item
+
+Before the deadline, verify each item below. **A code change alone is not a complete submission.**
+
+- [ ] I read this problem statement, `STUDENT_START_HERE.md`, `README.md`, the contribution guide, all relevant source files, the synthetic data documentation, every visible test, and the GitHub Actions workflow.
+- [ ] I ran `python -m pip install -r requirements-dev.txt`, recorded the untouched baseline result from `python -m pytest -q`, and ran `python -m main`.
+- [ ] I fixed the underlying causes of relevant failures and added regression tests. I did not delete, skip, weaken, hard-code around, or bypass existing tests or edit CI to hide failures.
+- [ ] I completed the existing `approach.md`, `challenges.md`, and `optimizations.md` templates at the repository root. Each must describe my own work and evidence; `challenges.md` is compulsory. Each is worth 5 marks.
+- [ ] I completed `TESTING.md` with the real Python version, commands and test summary, plus at least five edge cases showing input, expected behaviour, actual result, and test/evidence.
+- [ ] I completed `REWARD_RULE_NOTES.md`. Include (1) one worked points calculation from purchase amount through bonuses/caps, (2) one partial-refund/reversal example, (3) assumptions, and (4) at least three edge cases.
+- [ ] I reviewed the diff, kept the change focused, and ensured I did not commit secrets, credentials, or unrelated files.
+- [ ] I opened **one pull request from my fork to this original repository**, included code, tests and all required documents, filled in the pull-request template, and **did not merge the pull request**.
+- [ ] I checked the pull-request CI result and documented any remaining failures honestly.
+- [ ] I can explain the changes independently and make a small live modification if requested.
+
+If any item is incomplete, finish it before submitting. Record actual results only; never claim a test passed unless it was run. Follow the individual-work and AI-use policy below.
+
 ## Individual-work policy
 AI chatbots, AI coding assistants, generated patches/tests and third-party solution-writing are prohibited. Normal non-AI documentation is allowed. Do not upload assessment code or data to external services. You must explain your changes and make a small live modification if asked. A walkthrough supports integrity review; automated AI detectors are not definitive proof of use.
 
